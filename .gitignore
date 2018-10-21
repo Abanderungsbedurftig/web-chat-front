@@ -1,0 +1,10 @@
+# dependencies
+/node_modules
+
+# production
+src/img
+/public/*
+!public/index.html
+
+npm-debug.log*
+
